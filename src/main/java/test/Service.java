@@ -1,9 +1,5 @@
 package test;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.fasterxml.jackson.annotation.JsonIgnoreType;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
