@@ -9,8 +9,5 @@
         <module name="dockerhelp" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="dockerhelp" target="8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
